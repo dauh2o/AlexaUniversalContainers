@@ -1,4 +1,4 @@
-const SKILL_ID = 'amzn1.ask.skill.8ec720f3-1615-4e9d-8e67-29b5779697a7';
+const SKILL_ID = 'amzn1.ask.skill.398f2bd9-1358-489b-8a0c-be52dd766f11';
 
 const WELCOME_MSG = ''.concat(
     'Welcome to Universal Containers. ',
